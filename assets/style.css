@@ -71,11 +71,12 @@ section div ul li a {
 section div ul li a p {
     background-color: #588A87;
     color: rgb(238, 238, 238);
-    font-size: 30px;
+    font-size: 18px;
     border-radius: 10px;
     padding: 7px;
     margin: 20px auto;
-    max-width: 1000px;
+    max-width: 500px;
+    text-align: center;
 }
 
 footer {
