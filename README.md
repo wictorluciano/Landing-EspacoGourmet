@@ -1,6 +1,10 @@
 <h1 align="center">🏡 Landing Espaço Gourmet</h1>
 <h3>Página para apresentar o processo de planejamento de uma obra e a construção da área gourmet.</h3>
 
+<div align="center"> 
+[🔗 Click here to acess](https://wictorluciano.github.io/Landing-EspacoGourmet/)
+</div>
+
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/" align="center">🔗 Click here to acess</a>
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/"> <img src="./assets/img/readme.png"></a>
 
@@ -12,8 +16,6 @@
 - GIT & Github
 
 ## ⭐ Contact
-
-wluciano01@gmail.com
 
 <div align="center"> 
   <a href="https://instagram.com/wictor_luciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
