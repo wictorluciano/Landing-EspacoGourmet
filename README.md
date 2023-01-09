@@ -8,13 +8,21 @@
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/" align="center">🔗 Click here to acess</a>
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/"> <img src="./assets/img/readme.png"></a>
 
-
+<h3 align="center"> 💻 Technologies </h3>
+<div align="center"> 
+  
+- CSS
+- HTML
+- GIT & Github
+  
+</div>
 ## 💻 Technologies
 
 - CSS
 - HTML
 - GIT & Github
 
+<h3 align="center"> ⭐ Contact </h3>
 ## ⭐ Contact
 
 <div align="center"> 
