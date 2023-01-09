@@ -5,12 +5,14 @@
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/"> <img src="./assets/img/readme.png"></a>
 <p align="center"><a href="https://wictorluciano.github.io/Landing-EspacoGourmet/">🔗 Click here to acess</p>
 
+##
 <h3 align="start"> 💻 Technologies </h3>
  
 - CSS
 - HTML
 - GIT & Github
 
+##
 
 <h3 align="start"> ⭐ Contact </h3>
 
