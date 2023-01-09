@@ -3,7 +3,7 @@
 
 <a href="https://wictorluciano.github.io/Landing-EspacoGourmet/"><img src="./assets/img/readme.png" ></a>
 
-<p align="center">[🔗 Click here to acess](https://wictorluciano.github.io/Landing-EspacoGourmet/)</p>
+[🔗 Click here to acess](https://wictorluciano.github.io/Landing-EspacoGourmet/)
 
 ## 💻 Technologies
 
